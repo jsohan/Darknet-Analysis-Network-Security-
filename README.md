@@ -3,8 +3,12 @@ Darknet is a term used to describe a portion of IP addresses that are purposeful
 
 This program takes a Pcap file that has been monitoring a daknet trap on a network system and analyses it for potential probs.
 
-#### Probe Types Looked For
+#### Probe Types Looked For:
 - Horizontal
 - Vertical
 - Strobe
+
+# Instillation
+1.	Download repository and place inside your projects folder for your complier (Visual studio recommended)
+2.	Download the [pcap file]( https://drive.google.com/open?id=1jWuCKoDL5kHzjsJhS9TyHVh4abY_fflo “Google Drive”) used in the program
 
