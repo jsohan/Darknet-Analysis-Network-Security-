@@ -10,5 +10,5 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
 
 # Instillation
 1.	Download repository and place inside your projects folder for your complier (Visual studio recommended)
-2.	Download the [pcap file]( https://drive.google.com/open?id=1jWuCKoDL5kHzjsJhS9TyHVh4abY_fflo“Google Drive”) used in the program
+2.	Download the [pcap file] ( https://drive.google.com/open?id=1jWuCKoDL5kHzjsJhS9TyHVh4abY_fflo) used in the program
 
