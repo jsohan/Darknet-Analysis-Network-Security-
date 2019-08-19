@@ -17,7 +17,7 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
 
     - If using your own pcap file, remember to format the file  as libcap. You can do this by using "editcap" in comand line. This comes with wireshark.
     
-    ```editcap -F libpcap <filename> <newFileName>(.pcap)
+    ``` editcap -F libpcap <filename> <newFileName>(.pcap)
 
 4.	Open the project, build and run it.
 
