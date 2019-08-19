@@ -1,8 +1,8 @@
 # Description
 Darknet is a term used to describe a portion of IP addresses that are purposefully unused in a networking system. Because this portion of the network is supposedly unused there should not be any traffic back and forth. By monitoring this section, we can use it as a trap to detect potential probs searching for open IPs and ports that can be used to attack the system such as a DDoS attack. 
 
-This program takes a Pcap file that has been monitoring a daknet trap on a network system and analyses it for potential probs.
-*separate paragraph* - Proven to parse through 96,000,000 data packets (6.45 GB) in 6 minutes.
+This program takes a Pcap file that has been monitoring a daknet trap on a network system and analyses it for potential probs. *separate paragraph*
+- Proven to parse through 96,000,000 data packets (6.45 GB) in 6 minutes.
 
 ### Probe Types Scanned For:
 - Horizontal
