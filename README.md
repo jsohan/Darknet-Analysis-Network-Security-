@@ -11,10 +11,10 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
 
 # Instillation
 1.	Download repository and place inside your projects folder for your complier (Visual studio recommended).
-2.	Download the [pcap file](https://drive.google.com/open?id=1jWuCKoDL5kHzjsJhS9TyHVh4abY_fflo "Google Drive") (contailing 2 million data packets) we will be using.
+2.	Download the sample [pcap file](https://drive.google.com/open?id=1jWuCKoDL5kHzjsJhS9TyHVh4abY_fflo "Google Drive") (contailing 2 million data packets).
 3.	Place this pcap file within the “Network” folder.
 
-    - If using your own pcap file, remember to format the file  as libcap. You can do this by using "editcap" in comand line. This comes with wireshark.
+    - If using your own pcap file, remember to format the file as libcap. You can do this by using "editcap" in comand line. This comes with wireshark.
 
             editcap -F libpcap <filename> <newFileName>(.pcap)
 
