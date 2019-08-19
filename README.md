@@ -3,7 +3,7 @@ Darknet is a term used to describe a portion of IP addresses that are purposeful
 
 This program takes a Pcap file that has been monitoring a daknet trap on a network system and analyses it for potential probs.
 
-### Probe Types Looked For
+#### Probe Types Looked For
 - Horizontal
 - Vertical
 - Strobe
