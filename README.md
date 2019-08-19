@@ -3,7 +3,7 @@ Darknet is a term used to describe a portion of IP addresses that are purposeful
 
 This program takes a Pcap file that has been monitoring a daknet trap on a network system and analyses it for potential probs.
 
-    - proven to parse through 96,000,000 data packets (6.45 GB) in 6 minutes.
+- proven to parse through 96,000,000 data packets (6.45 GB) in 6 minutes.
 
 #### Probe Types Looked For:
 - Horizontal
