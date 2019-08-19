@@ -19,7 +19,6 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
     
     ```
 editcap -F libpcap <filename> <newFileName>(.pcap)
-```
 
 4.	Open the project, build and run it.
 
