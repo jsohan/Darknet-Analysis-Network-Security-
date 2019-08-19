@@ -1,0 +1,18 @@
+﻿Build started 8/18/2019 10:06:26 PM.
+     1>Project "C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Network\Network.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\WpdPack\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D WPCAP /D HAVE_REMOTE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\josh\documents\visual studio 2013\projects\network\network\source.cpp(333): warning C4101: 't' : unreferenced local variable
+     1>c:\users\josh\documents\visual studio 2013\projects\network\network\source.cpp(411): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\josh\documents\visual studio 2013\projects\network\network\source.cpp(412): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\josh\documents\visual studio 2013\projects\network\network\source.cpp(413): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\josh\documents\visual studio 2013\projects\network\network\source.cpp(414): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Debug\Network.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\WpdPack\Lib wpcap.lib packet.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Debug\Network.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Debug\Network.lib" /MACHINE:X86 Debug\Source.obj
+         Network.vcxproj -> C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Debug\Network.exe
+     1>Done Building Project "C:\Users\Josh\Documents\Visual Studio 2013\Projects\Network\Network\Network.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
