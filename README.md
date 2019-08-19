@@ -22,4 +22,7 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
 4.	Open the project, build and run it.
 
 # UI
-After the file is uploaded you are able to view all suspect probs, query the suspect list for a spcefic IP address, or query for a specific prob type
+After the file is uploaded you are able to:
+- view all suspect probs
+- query the suspect probs for a spcefic IP address
+- query for a specific prob type.
