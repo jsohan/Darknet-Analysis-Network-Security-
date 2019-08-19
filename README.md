@@ -23,6 +23,6 @@ This program takes a Pcap file that has been monitoring a daknet trap on a netwo
 
 # UI
 After the file is uploaded you are able to:
-- view all suspect probs
-- query the suspect probs for a spcefic IP address
-- query for a specific prob type.
+- View all suspect IP address
+- Query the suspect IPs for a spcefic IP address
+- Filter the suspect IPs by a specific probe type
